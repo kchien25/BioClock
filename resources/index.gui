@@ -1,0 +1,9 @@
+<svg class="background">
+  <image href="bg-img.png"/>
+  <image id="batteryImg" x="25" y="36" height="25" width="17"/>
+  <text class="general" id="batteryLevel"/>
+  <text class="general" id="myLabel"/>
+  <text class="general" id="todayDate"/>
+  <image id="hrImg"/>
+  <text class="general" id="hrmData"/>
+</svg>

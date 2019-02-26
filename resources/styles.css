@@ -1,0 +1,50 @@
+.general {
+  font-family: Tungsten-Medium;
+  fill: white;
+}
+
+#batteryImg {
+  text-anchor: start;
+  x: 10%;
+  y: 20%;
+}
+
+#batteryLevel {
+  font-size: 30;
+  text-length: 32;
+  text-anchor: start;
+  x: 15%;
+  y: 20%;
+}
+
+#myLabel {
+  font-size: 70;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 40%+40;
+}
+
+#todayDate {
+  font-size: 30;
+  text-length: 128;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+40;
+}
+
+#hrImg {
+  text-anchor: end;
+  height: 26;
+  width: 26;
+  x: 5%;
+  y: 82%;
+}
+
+#hrmData {
+  font-size: 30;
+  text-length: 32;
+  text-anchor: end;
+  x: 36%;
+  y: 90%;
+}

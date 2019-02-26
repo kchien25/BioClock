@@ -1,0 +1,25 @@
+{
+  "fitbit": {
+    "appUUID": "d724456c-fecc-4d28-a1f4-d6177785e445",
+    "appType": "clockface",
+    "appDisplayName": "BioClock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate",
+      "access_user_profile"
+    ],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "BioClock"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}
